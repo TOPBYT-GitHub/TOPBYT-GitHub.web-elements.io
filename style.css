@@ -1,0 +1,14 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(165, 165, 165);
+  background-color: rgb(0, 0, 0);
+  text-align: center;
+}
+textarea {
+  background-color: gray;
+  color: white;
+}
+code {
+  background-color: rgb(73, 73, 73);
+  color: white;
+}
